@@ -1,3 +1,3 @@
 # practice_demo
 This is my first Github repository.
-Author-Maryam Irfan(Student)
+Author-Maryam Irfan Student
